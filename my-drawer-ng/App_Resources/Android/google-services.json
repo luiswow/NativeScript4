@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907776151783",
+    "firebase_url": "https://coursera-my-drawer-ng-8f28d.firebaseio.com",
+    "project_id": "coursera-my-drawer-ng-8f28d",
+    "storage_bucket": "coursera-my-drawer-ng-8f28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907776151783:android:6d1349d0eb328515a81242",
+        "android_client_info": {
+          "package_name": "org.nativescript.mydrawerng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907776151783-ttu22g1pkr6rfdrm85dpr5skm7epcoq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo-xdaKkLOu_UaszDu7Tds7r7W6KKcjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907776151783-ttu22g1pkr6rfdrm85dpr5skm7epcoq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
